@@ -38,9 +38,6 @@ Computer Science undergraduate (8.77 CGPA) building real-world Machine Learning 
 
 ---
 
-### 📊 GitHub Stats
-
-![Avika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avika0412&show_icons=true&theme=default)
 
 ---
 
