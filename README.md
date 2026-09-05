@@ -34,7 +34,7 @@ Computer Science undergraduate (8.77 CGPA) building real-world Machine Learning 
 | 💳 [Credit Scoring Model](https://github.com/Avika0412/CodeAlpha-Task1) | ML model predicting loan default risk from financial data | Python, Scikit-learn |
 | 📩 [SMS Spam Classifier](https://github.com/Avika0412/SMSSpamClassifier) | NLP-based text classification distinguishing spam from legitimate messages | Python, NLP |
 | 🧬 SEER Cancer Data Analysis & Survival Prediction *(ongoing)* | Survival outcome prediction using NCI SEER cancer registry data | Python, Feature Engineering |
-| 📄 AI Resume Analyzer | NLP app scoring resume-to-job-description match using TF-IDF & cosine similarity | Streamlit, NLP |
+| 📄 [AI Resume Analyzer] (https://github.com/Avika0412/ai-resume-analyzer) | NLP app scoring resume-to-job-description match using TF-IDF & cosine similarity | Streamlit, NLP |
 
 ---
 
